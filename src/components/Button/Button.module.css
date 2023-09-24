@@ -1,0 +1,11 @@
+.btnSet{
+    background: var(--Blue, #07F);
+    color:white;
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+    padding: 10px 20px;
+ 
+    border: none;
+    outline: none;
+}

@@ -1,0 +1,13 @@
+.main{
+    display: flex;
+    align-items: center;
+    
+}
+.mainHead{
+    color: #FFF;
+font-family: Nunito;
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
